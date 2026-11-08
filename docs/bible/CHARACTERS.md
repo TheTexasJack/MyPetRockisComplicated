@@ -116,7 +116,42 @@
 
 **MOXIE:** "You never do!"
 
-**Additional recurring-support slots:** Three remain **uncreated**. Do not populate them by accident just to fill a roster.
+**Additional recurring-support slots:** Bobby (Optout's ordinary, grumbling older cousin) is established, and Despond's counterpart remains **uncreated**. Do not fill it without creator approval.
+
+### BOBBY | Optout's Ordinary Cousin
+**Status:** Name, family relationship, domestic-sitcom role and ordinary-person premise established. Visual artwork is being refined.
+
+**Role:** Optout's annoying older cousin and the exasperated star of a possible family-focused spinoff, *Married... With Kids*. **Not** a soldier, hero, or callsign-holder. Just Bobby.
+
+**Attitude:** Disgruntled, sarcastic, exhausted by bills, kids, domestic life, and Optout's schemes; ordinarily wants to sit on his sofa and watch television. Adventurers come to him, not the other way around.
+
+**Typically does:** Complains from his chair, deflates Optout's excitement with a household problem, grudgingly helps in a pinch.
+
+**Visual canon:** Middle-aged anthropomorphic goat with horizontal goat pupils. Worn white undershirt only, **no tie**, no outer dress shirt. Avoid randomly floating paper props.
+
+**Comic engine:** Cosmic crises are an unwelcome interruption to an ordinary goat's life.
+
+### SERGEANT BELLOWS | Lash's Unflappable Nemesis (To Everyone But Lash)
+**Status:** Name, stature, relationship, attitude, and visual-comedy rule established. Final costume details and portrait remain subject to approval.
+
+**Role:** Lash's recurring drill-sergeant foil: an expert disciplinarian whose furious, J. Jonah Jameson-like verbal tirades have absolutely no effect on Lash's sunny demeanor.
+
+**Attitude:** Explosive, fiercely professional, impossibly loud, tenacious. A capable tactical instructor with genuine pride in Lash, though you would never know it from how he talks. He sees every good performance as room for louder correction.
+
+**Appearance:** **Exactly four feet tall** in the original exaggerated 1980s-cartoon mode. Short, square, barrel-chested build, big military cap, outsized moustache and brows, tiny lower body, substantial boots, commanding posture. Lash towers over him as a purely **visual** contrast.
+
+**Absolute comedy rule:** His stature is **never acknowledged, explained, joked about, reacted to, or compensated for** in dialogue **or action**, not even subtly. No kneeling, stooping, stepstools, eye-level jokes or remarks about size. Bellows and everyone else behave as though his appearance is wholly ordinary. The audience alone sees the size contrast. **The joke lives entirely in the art.**
+
+**Typically does:** Barks orders with newspaper-editor intensity; points furiously at an equipment failure; demands better from Lash even when the operation succeeds; marches at full throttle into a crisis; privately ensures the team has what it needs.
+
+**Might say:**
+- "LASH! I SAID FORMATION, NOT CELEBRATION!"
+- "THAT WAS A PERFECT MANEUVER! DON'T LET IT GO TO YOUR HEAD!"
+- "WHY ARE YOU SMILING, SOLDIER?"
+- "THERE IS A DIFFERENCE BETWEEN CONFIDENCE AND RECKLESSNESS!"
+
+**Comic engine:** Bellows tries to instill discipline through sheer decibels; Lash responds with sincere encouragement, gratitude, and cheerful enthusiasm. **The shouting never dents Lash's mood.** Underneath it, Bellows cares about him like a son. Bellows' humor derives from his volcanic temperament, not from anyone insulting his size.
+
 
 ## Recurring antagonist
 
@@ -151,8 +186,8 @@
 3. **Original world:** Keep comic continuity independent of Lancer, its proprietary terms and organizations, and the real-life players who helped spark the idea.
 4. **No accidental personal attacks:** Fictionalize and evolve the characters; their comedy should stand without knowing anybody at the gaming table.
 5. **Art continuity:** Use approved portraits as visual references. Manual corrections made by the creator take precedence over generated inconsistencies.
-6. **Open questions stay open:** Three companion characters, the main villain roster, world name, powers and backstories need later decisions.
+6. **Open questions stay open:** One remaining companion character (Despond's), the main villain roster, world name, powers and backstories need later decisions.
 
 **Suggested GitHub path:** `docs/bible/CHARACTERS.md`  
-**Version:** `0.1-draft`  
+**Version:** `0.2-draft`  
 **Approval status:** Awaiting creator review.
