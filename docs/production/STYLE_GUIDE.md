@@ -21,6 +21,7 @@ Bright, expressive **retro Saturday-morning adventure cartoon**, combining the v
 - **Moxie:** detailed appearance undecided; unpredictable, bright, and capable.
 - **Sergeant Bellows:** exactly four feet tall, exaggerated short barrel-chested 1980s-cartoon sergeant, huge cap and moustache, commanding posture and furious expression. Show his dramatic height contrast with Lash **only in the composition**. Nobody ever comments on, reacts to, or adjusts posture for the height difference, not even subtly.
 - **Bobby:** middle-aged anthropomorphic goat in a worn white undershirt, no necktie, no outer shirt; horizontal goat pupils. Tired ordinary dad energy.
+- **Snaps:** short/wiry 21-year-old human café worker, messy hair, permanently worn smock/apron, rolled sleeves, café towel, expressive scowl. Serves coffee and martinis. Standalone portrait pending creator approval.
 - **OptIn:** vivid red hair, polished smile, purple corporate sci-fi uniform, immaculate presentation; cheerful and terrifyingly persuasive.
 
 ## Image hierarchy
