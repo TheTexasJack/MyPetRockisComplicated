@@ -26,6 +26,7 @@
 | 2026-11-08 | Comics, video and other media share the same character/world bible | Established |
 | 2026-11-08 | Bobby is Optout's ordinary goat cousin, not a soldier; no callsign | Established |
 | 2026-11-08 | Sergeant Bellows is Lash's four-foot-tall, volcanic drill-sergeant foil; no one ever acknowledges his height, verbally or physically | Established |
-| 2026-11-08 | Despond's counterpart and the core villain roster remain to be developed | Open |
+| 2026-11-08 | Snaps: 21-year-old, sharp-tongued barista/bartender in a habitual smock, Despond's non-romantic, caring tsundere foil | Established |
+| 2026-11-08 | Core villain roster remains to be developed | Open |
 
 Changes should be appended with decision date and rationale as appropriate.
