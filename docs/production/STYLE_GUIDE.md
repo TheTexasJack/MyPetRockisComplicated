@@ -19,6 +19,8 @@ Bright, expressive **retro Saturday-morning adventure cartoon**, combining the v
 - **Despond:** blue-haired or blue-themed downcast cosmopolitan, stylized beret/scarf or cape, elegant bored body language and drink as a recurring prop.
 - **R.O.C.K.:** **tiny hovering rock-shaped drone**, friendly eyes, subtle mechanical hardware/anti-grav. Avoid an oversized military robot look. The creator particularly favors the simple, silly rock-like iteration.
 - **Moxie:** detailed appearance undecided; unpredictable, bright, and capable.
+- **Sergeant Bellows:** exactly four feet tall, exaggerated short barrel-chested 1980s-cartoon sergeant, huge cap and moustache, commanding posture and furious expression. Show his dramatic height contrast with Lash **only in the composition**. Nobody ever comments on, reacts to, or adjusts posture for the height difference, not even subtly.
+- **Bobby:** middle-aged anthropomorphic goat in a worn white undershirt, no necktie, no outer shirt; horizontal goat pupils. Tired ordinary dad energy.
 - **OptIn:** vivid red hair, polished smile, purple corporate sci-fi uniform, immaculate presentation; cheerful and terrifyingly persuasive.
 
 ## Image hierarchy
