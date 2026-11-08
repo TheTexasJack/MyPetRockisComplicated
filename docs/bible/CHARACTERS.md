@@ -116,7 +116,7 @@
 
 **MOXIE:** "You never do!"
 
-**Additional recurring-support slots:** Bobby (Optout's ordinary, grumbling older cousin) is established, and Despond's counterpart remains **uncreated**. Do not fill it without creator approval.
+**Recurring-support lineup:** Moxie (Upshot), Bobby (Optout), Sergeant Bellows (Lash), and Snaps (Despond). Each character has their own agency, not just a supporting gag.
 
 ### BOBBY | Optout's Ordinary Cousin
 **Status:** Name, family relationship, domestic-sitcom role and ordinary-person premise established. Visual artwork is being refined.
@@ -153,6 +153,25 @@
 **Comic engine:** Bellows tries to instill discipline through sheer decibels; Lash responds with sincere encouragement, gratitude, and cheerful enthusiasm. **The shouting never dents Lash's mood.** Underneath it, Bellows cares about him like a son. Bellows' humor derives from his volcanic temperament, not from anyone insulting his size.
 
 
+### SNAPS | Despond's Aggressively Considerate Barista
+**Status:** Name, age (21), role, non-romantic dynamic, and personality established. Portrait design pending creator approval.
+
+**Role:** A young barista and bartender who serves both coffee and martinis, regularly tending to Despond and cutting straight through his cultivated gloom.
+
+**Attitude:** Short-fused, insulting, sharp, observant, and fundamentally caring. His **tsundere** energy is about ordinary friendship and care, **not** romance. He genuinely remembers what people need, then acts offended when anyone notices.
+
+**Visual direction:** Young adult man, age **21**; short or wiry, expressive and scrappy. Wears a **smock/apron all the time**, usually with rolled sleeves, coffee stains, and a towel tucked at his waist. No military uniform. Workaday retro-futuristic café aesthetic; visually distinct from the main four.
+
+**Typically does:** Sets down Despond's usual drink before he orders, critiques the customers while keeping tabs on their wellbeing, quietly serves extra biscuits or coffee, polishes glasses with exaggerated irritation, manages a café amid galactic ridiculousness.
+
+**Might say:**
+- "I made your coffee. Don't make it weird."
+- "Already made it, you miserable bastard."
+- "I WOULD NOTICE! WHO ELSE IS GOING TO PAY YOUR TAB?!"
+- "Then don't eat it!"
+
+**Comic engine:** Despond is elegantly miserable; Snaps is aggressively considerate. Snaps refuses to admit he cares, and Despond politely refuses to admit he knows. **Strictly non-romantic.** Snaps has his own job and life apart from Despond.
+
 ## Recurring antagonist
 
 ### OPTIN | The Smile in the Fine Print
@@ -176,6 +195,7 @@
 - **Upshot + Moxie:** A man who knows tomorrow versus a woman who makes tomorrow improvise. Strictly non-romantic.
 - **Optout + OptIn:** One circumvents systems; the other makes the systems impossible to refuse.
 - **Lash + Despond:** Enthusiastic action versus reluctant commentary.
+- **Despond + Snaps:** An elegant pessimist and a young barista whose insults disguise attentive, non-romantic friendship.
 - **R.O.C.K. + everyone:** The friendly little constant that can turn a disastrous group into something resembling a family.
 - **All four leads:** Competent in their specialties, spectacularly unreliable as a committee. Avoid making them merely stupid or cruel.
 
@@ -186,8 +206,8 @@
 3. **Original world:** Keep comic continuity independent of Lancer, its proprietary terms and organizations, and the real-life players who helped spark the idea.
 4. **No accidental personal attacks:** Fictionalize and evolve the characters; their comedy should stand without knowing anybody at the gaming table.
 5. **Art continuity:** Use approved portraits as visual references. Manual corrections made by the creator take precedence over generated inconsistencies.
-6. **Open questions stay open:** One remaining companion character (Despond's), the main villain roster, world name, powers and backstories need later decisions.
+6. **Open questions stay open:** The main villain roster, world name, powers and backstories need later decisions.
 
 **Suggested GitHub path:** `docs/bible/CHARACTERS.md`  
-**Version:** `0.2-draft`  
+**Version:** `0.3-draft`  
 **Approval status:** Awaiting creator review.
