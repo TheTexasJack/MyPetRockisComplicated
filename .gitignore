@@ -1,0 +1,14 @@
+# Local scratch and editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.bak
+*~
+__pycache__/
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+build/
