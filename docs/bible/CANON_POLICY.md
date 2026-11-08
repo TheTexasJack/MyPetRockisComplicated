@@ -24,6 +24,8 @@
 | 2026-11-08 | OptIn is Optout's cheerful, coercive-consent nemesis | Established |
 | 2026-11-08 | Optout always has horizontal goat pupils; creator GIMP corrections take precedence | Established |
 | 2026-11-08 | Comics, video and other media share the same character/world bible | Established |
-| 2026-11-08 | Three further supporting characters and core villains to be designed | Open |
+| 2026-11-08 | Bobby is Optout's ordinary goat cousin, not a soldier; no callsign | Established |
+| 2026-11-08 | Sergeant Bellows is Lash's four-foot-tall, volcanic drill-sergeant foil; no one ever acknowledges his height, verbally or physically | Established |
+| 2026-11-08 | Despond's counterpart and the core villain roster remain to be developed | Open |
 
 Changes should be appended with decision date and rationale as appropriate.
