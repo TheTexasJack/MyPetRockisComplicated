@@ -7,7 +7,7 @@
 ## Stage 1 · Canon and art foundation (current)
 - Maintain Character and World Bibles; creator approves final choices.
 - Finalize master visual references for the leads, R.O.C.K., Moxie and OptIn.
-- Establish the three additional recurring support characters and main villains.
+- Roster established: **12 recurring characters and 6 occasional NPC templates** in [CAST_ROSTER.md](../bible/CAST_ROSTER.md); establish any undeveloped designs and antagonists only when needed.
 - Agree on signature expressions, silhouettes and color guides.
 - Record the intended look and status of every character image.
 
@@ -40,4 +40,4 @@
 Idea -> canon check -> script -> thumbnails -> art/asset prep -> edit/letter or animate -> continuity review -> creator approval -> final export -> archive.
 
 ## Open decisions
-Setting, headquarters, secondary cast, antagonist roster, release cadence and audience rating remain open. Nothing here establishes a deadline.
+Setting, headquarters, undeveloped character designs, further antagonist roster, release cadence and audience rating remain open. Nothing here establishes a deadline.
