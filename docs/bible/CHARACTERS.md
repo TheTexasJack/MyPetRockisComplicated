@@ -7,6 +7,13 @@
 
 **Canon labels:** `Established` means decided in conversation. `Proposed` means a working writing choice awaiting approval. This story is original and does not require Lancer or SSC settings, brands, or lore.
 
+
+## Cast roster and asset scope
+
+The **creator-approved master roster** is maintained in [CAST_ROSTER.md](CAST_ROSTER.md): **12 recurring characters** (including Command and Hailey) plus **6 occasional NPC templates** (Civilian, Merchant, Soldier, Scientist, Alien, Security Guard). The roles and names listed there are established; visual details not yet approved remain open.
+
+**Command:** Supporting, recurring employer. **Hailey:** Supporting, wildcard. Neither has an approved characterization or design yet; do not invent these as canon. Occasional NPC templates do not require unique named personalities or individual biographies.
+
 ## Main cast
 
 ### UPSHOT | The Exhausted Precog
