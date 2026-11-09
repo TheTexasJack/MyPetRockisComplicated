@@ -14,13 +14,13 @@
 **Deliverable:** Reliable, reusable character masters and a tiny test strip.
 
 ## Stage 2 · Comics (primary)
-- Plan a three-to-six-panel debut strip using a single joke and clear character voices.
+- Publish **one short strip at a time, 1–4 panels per strip**, with a concise gag, setup, and payoff; see [COMIC_FORMAT.md](COMIC_FORMAT.md).
 - Create thumbnail storyboard, script, panel art, lettered final.
 - Build a reusable credits/intro/title-card template.
-- Accumulate short episodic strips before considering an extended issue.
+- Accumulate standalone gag strips; reserve **rare full-page spreads** for exceptional visual moments. Longer-form issues are not the default format.
 - Maintain comic continuity in the same shared canon.
 
-**Deliverable:** Issue/strip 001 and a repeatable production process.
+**Deliverable:** Strip 001 and a repeatable, asset-driven production process.
 
 ## Stage 3 · Motion comics and video
 - Reuse approved comic visuals and layered assets where possible.
