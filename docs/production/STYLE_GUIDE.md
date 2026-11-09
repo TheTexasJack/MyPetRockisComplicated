@@ -12,6 +12,10 @@ Bright, expressive **retro Saturday-morning adventure cartoon**, combining the v
 - Comedy through posture and expression as much as dialogue.
 - Keep imagery recognizable at poster, comic-panel and phone sizes.
 
+## Comic strip format
+
+Standard unit: **one complete strip of 1–4 panels**, usually a short character-driven gag. Four panels are not obligatory. **Rare full-page spreads** are deliberately special exceptions. See [COMIC_FORMAT.md](COMIC_FORMAT.md). The exact templates and export sizes remain open until tested.
+
 ## Character visual continuity
 - **Upshot:** tired precog; dark hair with a light streak, worn expression, white/red sci-fi outfit. Sleep and psychic strain are visual motifs.
 - **Optout:** expressive anthropomorphic goat hacker; goggles, utility gear, screen/tablet, **horizontal rectangular goat pupils**, consistently, even in small panels. Creator's manually corrected eye reference is authoritative.
