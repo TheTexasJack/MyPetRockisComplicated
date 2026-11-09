@@ -29,4 +29,6 @@
 | 2026-11-08 | Snaps: 21-year-old, sharp-tongued barista/bartender in a habitual smock, Despond's non-romantic, caring tsundere foil | Established |
 | 2026-11-08 | Core villain roster remains to be developed | Open |
 
+| 2026-11-08 | Creator-established master roster: 12 recurring characters (including Command as employer and Hailey as wildcard) and 6 rare NPC templates (Civilian, Merchant, Soldier, Scientist, Alien, Security Guard); see CAST_ROSTER.md | Established |
+
 Changes should be appended with decision date and rationale as appropriate.
